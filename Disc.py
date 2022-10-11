@@ -1,6 +1,7 @@
 import math
 import os
 os.system('clear||cls')
+print("Решение квадратных уравнений")
 a = float(input("a="))
 b = float(input("b="))
 c = float(input("c="))
