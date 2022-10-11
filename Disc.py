@@ -1,5 +1,6 @@
 import math
-
+import os
+os.system('clear||cls')
 a = float(input("a="))
 b = float(input("b="))
 c = float(input("c="))
